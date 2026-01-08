@@ -60,7 +60,7 @@ This project is designed as an educational resource for anyone interested in lea
 ## Installation
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/Prashant44-cell/Part-of-Speech-Tagging-Stemming-and-Chunking.git
    
    ```
 
